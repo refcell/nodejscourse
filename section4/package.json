@@ -1,0 +1,24 @@
+{
+  "name": "section4",
+  "version": "1.0.0",
+  "description": "Section 4 app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-prod": "nodemon app.js"
+  },
+  "keywords": [
+    "tutorial",
+    "node.js",
+    "udemy"
+  ],
+  "author": "Andreas Bigger",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
